@@ -10,7 +10,7 @@ comments: true
 toc: true
 donate: true
 share: true
-show_in: ("category" | "tag")[]
+
 date: 2024-09-24 10:40:25
 ---
 

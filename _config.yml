@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 'drfengyu : VisionStudy'
-subtitle: '一个视觉学习的在线网站'
+title: 'drfengyu : WebSource'
+subtitle: '一个在线的资源导航平台'
 description: '世界充满了学习.'
 keywords: 
 - hexo
@@ -16,7 +16,7 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project' posts/:title/
-url: https://drfengyu.github.io/hc
+url: https://www.drfengling.online
 permalink: posts/:title/
 permalink_defaults:
 pretty_urls:

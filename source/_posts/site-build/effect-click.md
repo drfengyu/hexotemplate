@@ -9,7 +9,7 @@ tags:
 #cover:
 toc: true
 excerpt: "为 Kratos : Rebirth 主题添加点击效果支持"
-show_in: ("category" | "tag")[]
+
 ---
 
 {% alertbar info "

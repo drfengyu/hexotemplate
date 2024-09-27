@@ -9,7 +9,7 @@ toc: true
 donate: true
 share: true
 date: 2024-09-04 14:16:26
-show_in: ("category" | "tag")[]
+
 ---
 
 ---

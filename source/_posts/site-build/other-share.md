@@ -7,7 +7,7 @@ tags:
 #cover:
 toc: false
 excerpt: "为 Kratos : Rebirth 主题添加自定义分享平台支持"
-show_in: ("category" | "tag")[]
+
 ---
 
 {% alertbar info "

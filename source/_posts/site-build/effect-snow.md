@@ -9,7 +9,7 @@ tags:
 #cover:
 toc: true
 excerpt: "为 Kratos : Rebirth 主题添加站点下雪功能支持"
-show_in: ("category" | "tag")[]
+
 ---
 
 {% alertbar warning "

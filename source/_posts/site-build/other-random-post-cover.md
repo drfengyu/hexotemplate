@@ -7,7 +7,7 @@ tags:
 #cover:
 toc: true
 excerpt: "为 Kratos : Rebirth 主题添加随机文章封面图效果"
-show_in: ("category" | "tag")[]
+
 ---
 
 {% alertbar warning "

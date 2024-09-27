@@ -15,7 +15,7 @@ search:
 
 # 图片配置
 image:
-  favicon: "/hc/assets/favicon.png" # 站点图标
+  favicon: "/assets/favicon.png" # 站点图标
   avatar: "https://avatars.githubusercontent.com/u/98081672?v=4" # 个人信息挂件上的头像
   banner:
     light: "https://dev.krt.moe/demo-assets/banner.webp"
@@ -25,7 +25,7 @@ image:
     dark: "https://dev.krt.moe/demo-assets/bg.webp"
   about: # 介绍卡片
       light: "https://dev.krt.moe/demo-assets/banner.webp" # 亮色模式
-      dark: "https://dev.krt.moe/demo-assets/banner.webp" # 暗色模式
+      dark: "https://dev.krt.moe/demo-assets/banner_dark.webp" # 暗色模式
 
 # 顶部导航栏配置
 nav:
@@ -38,25 +38,22 @@ nav:
       url: /archives/
     - label: 快速开始
       icon: book
-      url: /posts/beginner-course/software/
-    - label: 汇川视觉
+      url: /
+    - label: 机器视觉
       icon: book
       submenu:
-        - label: 入门教程
+        - label: 汇川视觉
           icon: book
-          url: /categories/汇川视觉/入门课程/
-        - label: 中级教程
+          url: https://blog.drfengling.online/hc
+        - label: 海康视觉
           icon: book
-          url: /categories/汇川视觉/中级教程/
-        - label: 高级教程
+          url: https://blog.drfengling.online/hk
+        - label: VisionPro视觉
           icon: book
-          url: /categories/汇川视觉/高级教程/
-    - label: 海康视觉
-      icon: book
-      url: https://blog.drfengling.online/hk
-    - label: VisionPro视觉
-      icon: book
-      url: http://blog.drfengling.online/VisionProvideostudydoc/
+          url: http://blog.drfengling.online/VisionProvideostudydoc/
+    # - label: VisionPro视觉
+    #   icon: book
+    #   url: http://blog.drfengling.online/VisionProvideostudydoc/
     - label: 音乐
       icon: music
       url: http://music.drfengling.online/
@@ -86,13 +83,16 @@ nav:
       submenu:
         - label: 代码仓库
           icon: code
-          url: https://github.com/drfengyu/hc
+          url: https://github.com/drfengyu
+    - label: 其他
+      icon: book
+      url: https://blog.drfengling.online
     - label: 留言板
       icon: comment
       url: /posts/site-build/lyb
         
 posts:
-  default_cover: "/hc/images/default.webp" # 没有头图的文章使用的默认图片 https://dev.krt.moe/demo-assets/banner.webp
+  default_cover: "/images/default.webp" # 没有头图的文章使用的默认图片 https://dev.krt.moe/demo-assets/banner.webp
   donate: true # 默认是否启用打赏功能
   share: true # 默认是否启用分享功能
   word_count: # 字数统计功能
@@ -106,7 +106,7 @@ footer:
     - icon: github
       link: https://github.com/drfengyu
     - icon: rss
-      link: /hc/atom.xml
+      link: /atom.xml
   components:
     uptime:
       since: "2024/09/05 17:03:12"
@@ -201,23 +201,26 @@ visit_count:
     post: ""
 
 ################## 额外的注入代码 ################## 
-# <script src="/hc/effects/cursor-effects.js"></script>
+# <script src="/effects/cursor-effects.js"></script>
+# <link rel="stylesheet" href="/effects/snow.css" />
+# <canvas id="snow"></canvas>
+# <script src="/effects/snow.js"></script>
 additional_injections:
   head: |
     <link rel="stylesheet" href="https://unpkg.com/aplayer@1.10.1/dist/APlayer.min.css">
-    <link rel="stylesheet" href="/hc/widgets/aplayer.css">
-    <link rel="stylesheet" href="/hc/others/mobile-hero.css"/>
-    <link rel="stylesheet" href="/hc/effects/snow.css" />
+    <link rel="stylesheet" href="/widgets/aplayer.css">
+    <link rel="stylesheet" href="/others/mobile-hero.css"/>
+    
   footer: |
     <meting-js server="netease" type="playlist" id="60198" fixed="true"></meting-js>
-    <canvas id="snow"></canvas>
+    
   after_footer: |
     <script src="https://cdn.jsdelivr.net/npm/twikoo@1.6.39/dist/twikoo.all.min.js"></script>
-    <script src="/hc/comments/twikoo.js"></script>
+    <script src="/comments/twikoo.js"></script>
     <script src="https://unpkg.com/aplayer@1.10.1/dist/APlayer.min.js"></script>
     <script src="https://unpkg.com/meting@2.0.1/dist/Meting.min.js"></script>
-    <script src="/hc/effects/leave-event.js"></script>
-    <script src="/hc/others/random-post-cover.js"></script>
-    <script src="/hc/effects/snow.js"></script>
+    <script src="/effects/leave-event.js"></script>
+    <script src="/others/random-post-cover.js"></script>
+    
 
 

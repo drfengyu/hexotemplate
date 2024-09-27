@@ -6,7 +6,7 @@ tags:
 #sticky:
 #cover:
 toc: false
-show_in: ("category" | "tag")[]
+
 ---
 
 主题默认的配置中，为避免造成视觉干扰，移动端是隐藏了顶部的大图的。但我们可以通过引入自定义的样式表来去除这个限制。
