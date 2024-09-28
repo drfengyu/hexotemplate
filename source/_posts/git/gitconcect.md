@@ -1,3 +1,17 @@
+---
+title: 连接远程仓库
+categories:
+  - git
+tags:
+  - git
+comments: true
+toc: true
+donate: true
+share: true
+date: 2024-09-28 11:03:08
+
+---
+
 要将本地 Git 仓库连接到远程仓库，您可以按照以下步骤操作： 
 
 ### 步骤 1: 确保您的本地仓库已初始化
