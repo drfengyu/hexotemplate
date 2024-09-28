@@ -1,3 +1,16 @@
+---
+title: 如何使用WebDAV
+categories:
+  - WebDAV
+tags:
+  - WebDAV
+comments: true
+toc: true
+donate: true
+share: true
+date: 2024-09-28 15:16:08
+
+---
 WebDAV（Web Distributed Authoring and Versioning）是一种基于HTTP协议的文件共享和管理协议，它允许用户通过Web进行文件的上传、下载、编辑和管理，类似于对本地文件系统的操作。WebDAV扩展了HTTP协议，使得用户可以直接在Web上进行文件操作，适用于在线协作、内容管理等场合。
 
 ### 如何使用WebDAV
