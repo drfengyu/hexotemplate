@@ -51,9 +51,9 @@ nav:
         - label: VisionPro视觉
           icon: book
           url: http://blog.drfengling.online/VisionProvideostudydoc/
-    # - label: VisionPro视觉
-    #   icon: book
-    #   url: http://blog.drfengling.online/VisionProvideostudydoc/
+    - label: 硬件选型
+      icon: book
+      url: http://xx.drfengling.online
     - label: 音乐
       icon: music
       url: http://music.drfengling.online/
