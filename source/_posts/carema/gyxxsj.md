@@ -1,4 +1,17 @@
+---
+title: 相机光源选型速记
+categories:
+  - 视觉
+  - 光源选型
+tags:
+  - 光源选型
+comments: true
+toc: true
+donate: true
+share: true
+date: 2024-10-08 11:26:08
 
+---
 
 以下是工业相机光源选型的速记总结，按照不同光源的应用场景和特性进行整理：
 
