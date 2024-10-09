@@ -1,5 +1,5 @@
 ---
-title: Aplayer
+title: gitbase搭建网站
 categories:
   - 网站搭建
   - gitbase
@@ -9,7 +9,7 @@ comments: true
 toc: true
 donate: true
 share: true
-date: 2024-09-23 10:43:13
+date: 2024-10-09 15:54:13
 
 ---
 
