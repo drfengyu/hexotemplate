@@ -1,3 +1,18 @@
+---
+title: Aplayer
+categories:
+  - 网站搭建
+  - gitbase
+tags:
+  - gitbase
+comments: true
+toc: true
+donate: true
+share: true
+date: 2024-09-23 10:43:13
+
+---
+
 # GitBase
 
 [GitBase](https://gitbase.app/) is an open-source dynamic website solution without a traditional database, built with Next.js, Tailwind CSS, and Shadcn/UI. It leverages GitHub as a content management system, providing a seamless way to create and manage website content.
