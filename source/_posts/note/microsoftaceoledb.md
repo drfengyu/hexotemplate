@@ -13,8 +13,6 @@ date: 2024-10-10 13:32:08
 source: https://learn.microsoft.com/en-us/answers/questions/1658052/download-link-for-microsoft-ace-oledb-12-0
 ---
 
-# 未在本地计算机上注册Microsoft.Jet.OLEDB.4.0
-
 未在本地计算机上注册Microsoft.Jet.OLEDB.4.0”这个错误通常出现在使用OLE DB连接到Access数据库或其他数据源时。这个问题的根源通常是因为你的系统上没有安装Microsoft Jet OLE DB Provider。以下是一些解决方法：
 
 1. **使用Microsoft Access Database Engine**：
