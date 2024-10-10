@@ -14,11 +14,7 @@ date: 2024-10-10 16:09:08
 
 # Project Based Learning
 
-[![Gitter](https://badges.gitter.im/practical-tutorials/community.svg)](https://gitter.im/practical-tutorials/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-
-A list of programming tutorials in which aspiring software developers learn how to build an application from scratch. These tutorials are divided into different primary programming languages. Tutorials may involve multiple technologies and languages.
-
-To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
+一个编程教程列表，有抱负的软件开发人员可以在这些教程中学习如何从头开始构建应用程序。这些教程分为不同的主要编程语言。教程可能涉及多种技术和语言。
 
 ## Table of Contents:
 
