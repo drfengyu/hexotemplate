@@ -1,9 +1,19 @@
 ---
-created: 2024-10-10T13:24:10 (UTC +08:00)
-tags: []
+title: 在电脑上使用U盘一般先格式化成什么格式
+categories:
+  - 笔记
+  - U盘
+tags:
+  - 笔记
+comments: true
+toc: true
+donate: true
+share: true
+date: 2024-10-08 10:49:08
 source: https://learn.microsoft.com/en-us/answers/questions/1658052/download-link-for-microsoft-ace-oledb-12-0
-author: 
 ---
+
+
 
 # Microsoft.ACE.OLEDB.12.0 的下载链接 - Microsoft Q&A
 
