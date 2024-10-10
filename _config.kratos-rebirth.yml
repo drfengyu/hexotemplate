@@ -60,6 +60,9 @@ nav:
     - label: 图片
       icon: photo
       url: http://imgdb.drfengling.online/
+    - label: 编程
+      icon: code
+      url: https://github.com/drfengyu/hexotemplate
     - label: AI
       icon: magic
       submenu:
@@ -83,7 +86,7 @@ nav:
       submenu:
         - label: 代码仓库
           icon: code
-          url: https://github.com/drfengyu
+          url: https://github.com/drfengyu/hexotemplate
     - label: 其他
       icon: book
       url: https://blog.drfengling.online
