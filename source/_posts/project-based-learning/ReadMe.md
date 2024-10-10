@@ -1,4 +1,16 @@
-
+---
+title: 基于项目的学习
+categories:
+  - 笔记
+  - 学习
+tags:
+  - 笔记
+comments: true
+toc: true
+donate: true
+share: true
+date: 2024-10-10 16:09:08
+---
 
 # Project Based Learning
 
