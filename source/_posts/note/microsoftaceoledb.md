@@ -1,8 +1,8 @@
 ---
-title: 在电脑上使用U盘一般先格式化成什么格式
+title: 未在本地计算机上注册Microsoft.Jet.OLEDB.4.0如何解决
 categories:
   - 笔记
-  - U盘
+  - windows
 tags:
   - 笔记
 comments: true
