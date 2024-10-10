@@ -15,5 +15,5 @@ date: 2024-10-10 10:07:08
 
 {% youtube F-Azm-JvJmM %}
 
-https://www.youtube.com/watch?v=F-Azm-JvJmM
+
 
