@@ -62,7 +62,7 @@ nav:
       url: http://imgdb.drfengling.online/
     - label: 编程
       icon: code
-      url: https://github.com/drfengyu/hexotemplate
+      url: /posts/project-based-learning/ReadMe/
     - label: AI
       icon: magic
       submenu:
