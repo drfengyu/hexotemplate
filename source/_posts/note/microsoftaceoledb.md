@@ -9,7 +9,7 @@ comments: true
 toc: true
 donate: true
 share: true
-date: 2024-10-08 10:49:08
+date: 2024-10-10 13:32:08
 source: https://learn.microsoft.com/en-us/answers/questions/1658052/download-link-for-microsoft-ace-oledb-12-0
 ---
 
