@@ -88,7 +88,7 @@ nav:
           icon: code
           url: https://github.com/drfengyu/hexotemplate
     - label: 其他
-      icon: dots
+      icon: ellipsis-h
       url: https://blog.drfengling.online
     - label: 留言板
       icon: comment
