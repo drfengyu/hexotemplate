@@ -208,6 +208,7 @@ visit_count:
 # <link rel="stylesheet" href="/effects/snow.css" />
 # <canvas id="snow"></canvas>
 # <script src="/effects/snow.js"></script>
+#  <script src="/others/random-post-cover.js"></script>
 additional_injections:
   head: |
     <link rel="stylesheet" href="https://unpkg.com/aplayer@1.10.1/dist/APlayer.min.css">
@@ -223,7 +224,7 @@ additional_injections:
     <script src="https://unpkg.com/aplayer@1.10.1/dist/APlayer.min.js"></script>
     <script src="https://unpkg.com/meting@2.0.1/dist/Meting.min.js"></script>
     <script src="/effects/leave-event.js"></script>
-    <script src="/others/random-post-cover.js"></script>
+   
     
 
 
