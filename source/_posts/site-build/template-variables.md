@@ -46,7 +46,7 @@ tags:
 - 标签2
 - 标签3
 sticky: 1
-cover: "https://wiki.krt.moe/images/default.webp"
+cover: "/images/default.webp"
 toc: true
 expire: 15
 show_in:
