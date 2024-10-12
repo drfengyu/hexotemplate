@@ -162,7 +162,7 @@ footer:
 
 `posts.default_cover` 控制的是没有头图的文章在使用 card 模式下的默认图片。如果您有配合随机图片工具使用的需要，您可以使用一张加载中的图标以避免让访客感到疑惑。
 
-`posts.donate` 和 `posts.share` 控制的是当文章没有具体设置时，是否启用对应的功能。一种适用场景例如设置为 true 作为所有文章的默认，然后再在搬运翻译的文章内部设置 [模板参数](/posts/template-variables/) 为 `false` 来指定停用。
+`posts.donate` 和 `posts.share` 控制的是当文章没有具体设置时，是否启用对应的功能。一种适用场景例如设置为 true 作为所有文章的默认，然后再在搬运翻译的文章内部设置 [模板参数](/posts/site-build/template-variables/) 为 `false` 来指定停用。
 
 `posts.word_count` 管理的是字数统计功能相关的配置，即在文章页标题栏下方显示的元数据中，是否包含文章本身的字数统计信息。如果不需要这个功能，直接设置 `posts.word_count.enable` 为 `false` 即可。
 
