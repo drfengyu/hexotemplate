@@ -37,7 +37,7 @@ nav:
       icon: archive
       url: /archives/
     - label: 快速开始
-      icon: lightn
+      icon: bolt
       url: /
     - label: 机器视觉
       icon: book
@@ -52,7 +52,7 @@ nav:
           icon: book
           url: http://blog.drfengling.online/VisionProvideostudydoc/
     - label: 硬件选型
-      icon: book
+      icon: camera
       url: http://xx.drfengling.online
     - label: 音乐
       icon: music
@@ -88,7 +88,7 @@ nav:
           icon: code
           url: https://github.com/drfengyu/hexotemplate
     - label: 其他
-      icon: book
+      icon: dots
       url: https://blog.drfengling.online
     - label: 留言板
       icon: comment
