@@ -6,7 +6,7 @@ categories:
 tags:
   - 笔记
 comments: true
-toc: true
+toc: false
 donate: true
 share: true
 sticky: 1
