@@ -37,7 +37,7 @@ nav:
       icon: archive
       url: /archives/
     - label: 快速开始
-      icon: lightning
+      icon: lightn
       url: /
     - label: 机器视觉
       icon: book
