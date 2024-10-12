@@ -37,7 +37,7 @@ nav:
       icon: archive
       url: /archives/
     - label: 快速开始
-      icon: book
+      icon: lightning
       url: /
     - label: 机器视觉
       icon: book
@@ -62,7 +62,7 @@ nav:
       url: http://imgdb.drfengling.online/
     - label: 编程
       icon: code
-      url: /posts/project-based-learning/ReadMe/
+      url: /posts/project-based-learning/index/
     - label: AI
       icon: magic
       submenu:
