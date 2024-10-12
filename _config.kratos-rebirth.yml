@@ -87,6 +87,9 @@ nav:
         - label: 代码仓库
           icon: code
           url: https://github.com/drfengyu/hexotemplate
+        - label: git教程
+          icon: github
+          url: https://liaoxuefeng.com/books/git/introduction/index.html
     - label: 其他
       icon: ellipsis-h
       url: https://blog.drfengling.online
