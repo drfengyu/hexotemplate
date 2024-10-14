@@ -90,6 +90,9 @@ nav:
         - label: git教程
           icon: github
           url: https://liaoxuefeng.com/books/git/introduction/index.html
+        - label: WPFUI美化
+          icon: code
+          url: https://www.cnblogs.com/Can-daydayup/p/18127900
     - label: 其他
       icon: ellipsis-h
       url: https://blog.drfengling.online
