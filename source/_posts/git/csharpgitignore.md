@@ -1,3 +1,17 @@
+---
+title: C#项目Git忽略项
+categories:
+  - git
+  - c#
+tags:
+  - git
+comments: true
+toc: true
+donate: true
+share: true
+date: 2024-10-15 16:01:08
+
+---
 在 C# 项目上传github时，通常你需要忽略一些自动生成的文件、编译输出和用户配置文件。以下是一个基本的 `.gitignore` 文件示例：
 
 ```gitignore
