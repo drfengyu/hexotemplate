@@ -66,12 +66,12 @@ nav:
     - label: AI
       icon: magic
       submenu:
-        - label: GPT4o-mini
-          icon: magic
-          url: https://lobechat.drfengling.online
-        - label: GPT3.5
+        - label: AI Local
           icon: magic
           url: https://a.drfengling.online
+        - label: AI Online
+          icon: magic
+          url: https://lobechat.drfengling.online
         - label: 爱豆在线问答
           icon: magic
           url: https://idol.drfengling.online
