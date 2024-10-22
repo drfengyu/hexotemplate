@@ -84,13 +84,13 @@ nav:
     - label: API
       icon: magic
       submenu:
-        - label: GET请求
+        - label: GET API
           icon: link
           url: https://getapi.drfengling.online
-        - label: POST请求
+        - label: POST API
           icon: link
           url: https://postapi.drfengling.online
-        - label: 网易云API
+        - label: MUSIC API
           icon: link
           url: https://ncm.drfengling.online
         - label: WEB API
