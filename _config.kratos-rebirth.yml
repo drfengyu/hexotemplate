@@ -80,7 +80,25 @@ nav:
           url: https://chat.drfengling.online
         - label: 微笑脸
           icon: magic
-          url: https://model.drfengling.online  
+          url: https://model.drfengling.online
+    - label: API服务
+      icon: magic
+      submenu:
+        - label: GET请求
+          icon: link
+          url: https://getapi.drfengling.online
+        - label: POST请求
+          icon: link
+          url: https://postapi.drfengling.online
+        - label: 网易云API
+          icon: link
+          url: https://ncm.drfengling.online
+        - label: WEB API
+          icon: link
+          url: https://apifox.cn
+        - label: OPENAI API
+          icon: link
+          url: https://ai.drfengling.online  
     - label: 链接
       icon: link
       submenu:
