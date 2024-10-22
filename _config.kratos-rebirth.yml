@@ -84,19 +84,19 @@ nav:
     - label: API
       icon: magic
       submenu:
-        - label: GET API
-          icon: link
-          url: https://getapi.drfengling.online
-        - label: POST API
-          icon: link
-          url: https://postapi.drfengling.online
-        - label: MUSIC API
-          icon: link
-          url: https://ncm.drfengling.online
-        - label: WEB API
+        - label: WEB
           icon: link
           url: https://apifox.cn
-        - label: OPENAI API
+        - label: GET
+          icon: link
+          url: https://getapi.drfengling.online
+        - label: POST
+          icon: link
+          url: https://postapi.drfengling.online
+        - label: MUSIC
+          icon: link
+          url: https://ncm.drfengling.online
+        - label: OPENAI
           icon: link
           url: https://ai.drfengling.online  
     - label: 链接
