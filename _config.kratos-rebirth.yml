@@ -51,9 +51,9 @@ nav:
         - label: VisionPro视觉
           icon: book
           url: http://blog.drfengling.online/VisionProvideostudydoc/
-    - label: 硬件选型
-      icon: camera
-      url: http://xx.drfengling.online
+        - label: 硬件选型
+          icon: camera
+          url: http://xx.drfengling.online
     - label: 音乐
       icon: music
       url: http://music.drfengling.online/
@@ -81,7 +81,7 @@ nav:
         - label: 微笑脸
           icon: magic
           url: https://model.drfengling.online
-    - label: API服务
+    - label: API
       icon: magic
       submenu:
         - label: GET请求
@@ -111,9 +111,9 @@ nav:
         - label: WPFUI美化
           icon: code
           url: https://www.cnblogs.com/Can-daydayup/p/18127900
-    - label: 其他
-      icon: ellipsis-h
-      url: https://blog.drfengling.online
+        - label: 其他
+          icon: ellipsis-h
+          url: https://blog.drfengling.online
     - label: 留言板
       icon: comment
       url: /posts/site-build/lyb
