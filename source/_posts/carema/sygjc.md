@@ -2,7 +2,6 @@
 title: 输液管检测
 categories:
   - 视觉
-  - 输液管检测
 tags:
   - 视觉
 comments: true
