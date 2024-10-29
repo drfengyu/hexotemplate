@@ -1,7 +1,7 @@
 ---
 title: 随机文章封面图
 date: 2024-09-24 23:27:33
-categories: 网站搭建
+categories: 网站
 tags:
 #sticky:
 #cover:
