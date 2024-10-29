@@ -2,9 +2,8 @@
 title: 在电脑上使用U盘一般先格式化成什么格式
 categories:
   - 笔记
-  - U盘
 tags:
-  - 笔记
+  - u盘
 comments: true
 toc: true
 donate: true
