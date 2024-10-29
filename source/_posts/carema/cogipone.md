@@ -2,9 +2,8 @@
 title: VisionPro预处理工具之一(CogIPOneImageTool)讲解
 categories:
   - 视觉
-  - CogIPOneImageTool
 tags:
-  - 视觉
+  - CogIPOneImageTool
 comments: true
 toc: false
 donate: true
