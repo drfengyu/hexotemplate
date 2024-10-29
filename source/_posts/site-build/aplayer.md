@@ -2,7 +2,6 @@
 title: Aplayer
 categories:
   - 网站搭建
-  - 播放器
 tags:
   - 音乐
 comments: true
