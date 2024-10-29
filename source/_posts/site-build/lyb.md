@@ -1,9 +1,9 @@
 ---
 title: 留言板
 categories:
-  - 留言板
+  - 评论
 tags:
-  - 评论区
+  - 评论
 comments: true
 toc: true
 donate: true
