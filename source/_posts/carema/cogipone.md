@@ -1,11 +1,19 @@
 ---
-created: 2024-10-29T14:34:09 (UTC +08:00)
-tags: [cogiponeimagetool]
-source: https://blog.csdn.net/syzmbao/article/details/141218315
-author: 
+title: VisionPro预处理工具之一(CogIPOneImageTool)讲解
+categories:
+  - 视觉
+  - CogIPOneImageTool
+tags:
+  - 视觉
+comments: true
+toc: true
+donate: true
+share: true
+date: 2024-10-29 11:26:08
+
 ---
 
-# VisionPro预处理工具之一(CogIPOneImageTool)讲解-CSDN博客
+# VisionPro预处理工具之一(CogIPOneImageTool)讲解
 
 > ## Excerpt
 > 文章浏览阅读1.3k次，点赞14次，收藏25次。直方图均衡化 (Histogram Equalization)是一种增强图像对比度 (Image Contrast)的方法，其主要思想是将一副图像的直方图分布变成近似均匀分布， 从而增强图像的对比度。应用说明： 当生产环境中的照明在一个图像到另一个图像之间可能略有变化时， 或者在要检查的对象的某些方面（例如颜色）略有变化时，就需要使用均衡操作。为灰度图像中每个像素的灰度值添加正值或负值，从而生成一张更亮或更暗的图像。对输入图像进行子采样，以使输出图像仅包含原始像素的一小部分，并平滑图像。_cogiponeimagetool
