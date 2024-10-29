@@ -1,7 +1,7 @@
 ---
 title: hexo写作-标签插件
 categories: 
-  - 网站搭建
+  - 网站
 tags: Hexo
 comments: true
 toc: true
