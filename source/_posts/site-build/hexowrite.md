@@ -2,8 +2,7 @@
 title: hexo写作-标签插件
 categories: 
   - 网站搭建
-  - Hexo
-tags: [Hexo,写作, 标签插件]
+tags: Hexo
 comments: true
 toc: true
 donate: true
