@@ -1,8 +1,8 @@
 ---
 title: 基于项目的学习
 categories:
-  - 学习
-tags:
+  - 编程
+tags: 编程
 comments: true
 toc: false
 donate: true
