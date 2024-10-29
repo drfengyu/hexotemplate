@@ -1,10 +1,8 @@
 ---
 title: 基于项目的学习
 categories:
-  - 笔记
   - 学习
 tags:
-  - 笔记
 comments: true
 toc: false
 donate: true
