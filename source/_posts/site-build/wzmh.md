@@ -2,8 +2,7 @@
 title: 站点离开提示
 categories: 
   - 网站搭建
-  - 站点特效
-tags:
+tags: 站点特效
 comments: true
 toc: true
 donate: true
