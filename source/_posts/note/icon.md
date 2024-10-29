@@ -2,9 +2,9 @@
 title: icon图标
 categories:
   - 笔记
-  - icon图标
+  - 图标
 tags:
-  - icon图标
+  - 图标
 comments: true
 toc: true
 donate: true
