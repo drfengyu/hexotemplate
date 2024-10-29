@@ -1,7 +1,7 @@
 ---
 title: 你好，世界！
 date: 2024-09-03 11:03:12
-categories: 全新体验
+categories: 欢迎
 tags:
 - 欢迎
 # sticky: 1
