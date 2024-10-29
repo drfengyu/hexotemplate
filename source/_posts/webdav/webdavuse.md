@@ -1,8 +1,7 @@
 ---
 title: 如何使用WebDAV
 categories:
-  - 云盘
-  - WebDAV
+  - 笔记
 tags:
   - WebDAV
 comments: true
