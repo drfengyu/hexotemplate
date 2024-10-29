@@ -1,7 +1,6 @@
 ---
 title: icon图标
 categories:
-  - 笔记
   - 图标
 tags:
   - 图标
