@@ -2,9 +2,8 @@
 title: 评论区-twikoo
 categories:
   - 网站搭建
-  - 评论
 tags:
-  - twikoo
+  - 评论区
 comments: true
 toc: true
 donate: true
