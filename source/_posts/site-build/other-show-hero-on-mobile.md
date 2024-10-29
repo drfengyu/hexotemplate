@@ -1,7 +1,7 @@
 ---
 title: 在移动端展示顶端大图
 date: 2024-09-24 16:48:23
-categories: 网站搭建
+categories: 网站
 tags:
 #sticky:
 #cover:
