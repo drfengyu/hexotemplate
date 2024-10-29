@@ -2,7 +2,6 @@
 title: C#项目Git忽略项
 categories:
   - git
-  - c#
 tags:
   - git
 comments: true
