@@ -1,10 +1,8 @@
 ---
 title: cloudflare workers js响应体重复使用报错
 categories:
-  - 笔记
-  - cloudflare workers
-tags:
-  - js
+  - java
+tags: js
 comments: true
 toc: true
 donate: true
