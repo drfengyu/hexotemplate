@@ -2,9 +2,8 @@
 title: 未在本地计算机上注册Microsoft.Jet.OLEDB.4.0
 categories:
   - 笔记
-  - windows
 tags:
-  - 笔记
+  - 系统
 comments: true
 toc: true
 donate: true
