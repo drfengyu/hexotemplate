@@ -1,8 +1,7 @@
 ---
 title: gitbase搭建网站
 categories:
-  - 网站搭建
-  - gitbase
+  - git
 tags:
   - gitbase
 comments: true
