@@ -2,7 +2,6 @@
 title: 相机光源选型速记
 categories:
   - 视觉
-  - 光源选型
 tags:
   - 光源选型
 comments: true
