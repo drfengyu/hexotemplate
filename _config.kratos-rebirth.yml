@@ -111,6 +111,9 @@ nav:
         - label: WPFUI美化
           icon: code
           url: https://www.cnblogs.com/Can-daydayup/p/18127900
+        - label: 在线工具
+          icon: tool
+          url: https://www.toolhelper.cn/
         - label: 其他
           icon: ellipsis-h
           url: https://blog.drfengling.online
