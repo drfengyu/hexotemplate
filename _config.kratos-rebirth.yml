@@ -112,7 +112,7 @@ nav:
           icon: code
           url: https://www.cnblogs.com/Can-daydayup/p/18127900
         - label: 在线工具
-          icon: tool
+          icon: tools
           url: https://www.toolhelper.cn/
         - label: 其他
           icon: ellipsis-h
