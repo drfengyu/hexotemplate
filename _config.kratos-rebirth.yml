@@ -95,7 +95,7 @@ nav:
           url: https://postapi.drfengling.online
         - label: MUSIC
           icon: link
-          url: https://ncm.drfengling.online
+          url: https://ncmapi.drfengling.online
         - label: OPENAI
           icon: link
           url: https://ai.drfengling.online  
