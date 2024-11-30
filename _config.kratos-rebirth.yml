@@ -44,22 +44,22 @@ nav:
       submenu:
         - label: 汇川视觉
           icon: book
-          url: https://blog.drfengling.online/hc
+          url: https://blog.drfengling.asia/hc
         - label: 海康视觉
           icon: book
-          url: https://blog.drfengling.online/hk
+          url: https://blog.drfengling.asia/hk
         - label: VisionPro视觉
           icon: book
-          url: http://blog.drfengling.online/VisionProvideostudydoc/
+          url: http://blog.drfengling.asia/VisionProvideostudydoc/
         - label: 硬件选型
           icon: camera
-          url: http://xx.drfengling.online
+          url: http://xx.drfengling.asia
     - label: 音乐
       icon: music
-      url: http://music.drfengling.online/
+      url: http://music.drfengling.asia/
     - label: 图片
       icon: photo
-      url: http://imgdb.drfengling.online/
+      url: http://imgdb.drfengling.asia/
     - label: 编程
       icon: code
       url: /posts/project-based-learning/index/
@@ -68,19 +68,19 @@ nav:
       submenu:
         - label: AI Local
           icon: magic
-          url: https://a.drfengling.online
+          url: https://a.drfengling.asia
         - label: AI Online
           icon: magic
-          url: https://lobechat.drfengling.online
+          url: https://lobechat.drfengling.asia
         - label: 爱豆在线问答
           icon: magic
-          url: https://idol.drfengling.online
+          url: https://idol.drfengling.asia
         - label: 与大模型聊天
           icon: magic
-          url: https://chat.drfengling.online
+          url: https://chat.drfengling.asia
         - label: 微笑脸
           icon: magic
-          url: https://model.drfengling.online
+          url: https://model.drfengling.asia
     - label: API
       icon: magic
       submenu:
@@ -89,16 +89,16 @@ nav:
           url: https://apifox.cn
         - label: GET
           icon: link
-          url: https://getapi.drfengling.online
+          url: https://getapi.drfengling.asia
         - label: POST
           icon: link
-          url: https://postapi.drfengling.online
+          url: https://postapi.drfengling.asia
         - label: MUSIC
           icon: link
-          url: https://ncmapi.drfengling.online
+          url: https://ncmapi.drfengling.asia
         - label: OPENAI
           icon: link
-          url: https://ai.drfengling.online  
+          url: https://ai.drfengling.asia  
     - label: 链接
       icon: link
       submenu:
@@ -116,7 +116,7 @@ nav:
           url: https://www.toolhelper.cn/
         - label: 其他
           icon: ellipsis-h
-          url: https://blog.drfengling.online
+          url: https://blog.drfengling.asia
     - label: 留言板
       icon: comment
       url: /posts/site-build/lyb
