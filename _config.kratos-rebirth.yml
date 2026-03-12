@@ -44,22 +44,22 @@ nav:
       submenu:
         - label: 汇川视觉
           icon: book
-          url: https://blog.drfengling.asia/hc
+          url: https://blog.fuwari.fun/hc
         - label: 海康视觉
           icon: book
-          url: https://blog.drfengling.asia/hk
+          url: https://blog.fuwari.fun/hk
         - label: VisionPro视觉
           icon: book
-          url: http://blog.drfengling.asia/VisionProvideostudydoc/
+          url: http://blog.fuwari.fun/VisionProvideostudydoc/
         - label: 硬件选型
           icon: camera
-          url: http://xx.drfengling.asia
+          url: http://xx.fuwari.fun
     - label: 音乐
       icon: music
-      url: http://music.drfengling.asia/
+      url: http://music.fuwari.fun/
     - label: 图片
       icon: photo
-      url: http://imgdb.drfengling.asia/
+      url: http://imgdb.fuwari.fun/
     - label: 编程
       icon: code
       url: /posts/project-based-learning/index/
@@ -68,19 +68,19 @@ nav:
       submenu:
         - label: AI Local
           icon: magic
-          url: https://a.drfengling.asia
+          url: https://a.fuwari.fun
         - label: AI Online
           icon: magic
-          url: https://lobechat.drfengling.asia
+          url: https://lobechat.fuwari.fun
         - label: 爱豆在线问答
           icon: magic
-          url: https://idol.drfengling.asia
+          url: https://idol.fuwari.fun
         - label: 与大模型聊天
           icon: magic
-          url: https://chat.drfengling.asia
+          url: https://chat.fuwari.fun
         - label: 微笑脸
           icon: magic
-          url: https://model.drfengling.asia
+          url: https://model.fuwari.fun
     - label: API
       icon: magic
       submenu:
@@ -89,16 +89,16 @@ nav:
           url: https://apifox.cn
         - label: GET
           icon: link
-          url: https://getapi.drfengling.asia
+          url: https://getapi.fuwari.fun
         - label: POST
           icon: link
-          url: https://postapi.drfengling.asia
+          url: https://postapi.fuwari.fun
         - label: MUSIC
           icon: link
-          url: https://ncmapi.drfengling.asia
+          url: https://ncmapi.fuwari.fun
         - label: OPENAI
           icon: link
-          url: https://ai.drfengling.asia  
+          url: https://ai.fuwari.fun  
     - label: 链接
       icon: link
       submenu:
@@ -116,7 +116,7 @@ nav:
           url: https://www.toolhelper.cn/
         - label: 其他
           icon: ellipsis-h
-          url: https://blog.drfengling.asia
+          url: https://blog.fuwari.fun
     - label: 留言板
       icon: comment
       url: /posts/site-build/lyb
